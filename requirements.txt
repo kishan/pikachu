@@ -1,7 +1,15 @@
+blessed==1.14.1
 fitbit==0.2.2
+keyring==8.7
+keyrings.alt==1.1.1
+lxml==3.6.1
+measurement==1.8.0
+myfitnesspal==1.8.3
 oauthlib==1.1.2
 pprintpp==0.2.3
 python-dateutil==2.4.2
 requests==2.10.0
 requests-oauthlib==0.6.2
 six==1.10.0
+sympy==0.7.6.1
+wcwidth==0.1.7
